@@ -1,4 +1,4 @@
-<img alt="banner" width="200" height="200" src="banner.jpeg">
+<img alt="banner" width="1000" height="400" src="banner.jpeg">
 
 <h1 align="center">Hi 👋, I'm Farhan Ahmad</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
